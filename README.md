@@ -100,7 +100,9 @@ Exemplo de lista
 
 ### GET - NÍVEL - List level buyer
 
-Para obter a lista de informações do cliente: 
+Para obter a lista de informações do cliente:
+
+<i>O que retorna:</i>
 
 <ul>
 <li>Total Compras</li>
